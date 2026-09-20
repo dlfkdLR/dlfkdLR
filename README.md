@@ -7,8 +7,8 @@
 
 <br/>
 
-<a href="https://github.com/HechoLP">
-  <img src="https://img.shields.io/badge/GITHUB-@HechoLP-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<a href="https://github.com/dlfkdLR">
+  <img src="https://img.shields.io/badge/GITHUB-@dlfkdLR-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://dlfkd.dev">
   <img src="https://img.shields.io/badge/WEBSITE-dlfkd.dev-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"/>
