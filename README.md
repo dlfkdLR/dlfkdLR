@@ -3,7 +3,7 @@
 # ⚡ dlfkd
 
 **경북 포항에서 코드를 만드는 학생 개발자, 이랑입니다.**<br/>
-처음 만든 버튼이 클릭됐을 때의 `"아 이게 되네."`라는 감각을 좋아합니다.
+처음 만든 버튼이 클릭됐을 때의 “아 이게 되네.”라는 감각을 좋아합니다.
 
 <br/>
 
@@ -27,7 +27,7 @@
 
 ## 👋 소개 (About Me)
 
-- 안녕하세요, **경북소프트웨어마이스터고**에서 개발을 공부하고 있는 **이랑(Lee Rang)**입니다.
+- 안녕하세요, **경북소프트웨어마이스터고**에서 개발을 공부하고 있는 **이랑(Lee Rang)** 입니다.
 - 목표는 단순합니다. **내가 만든 걸 누군가 실제로 쓰는 것.**
 - 웹과 백엔드를 중심으로 작은 아이디어를 서비스 형태로 만들고, 오류를 고치며 구조를 다듬는 과정을 좋아합니다.
 
@@ -35,31 +35,33 @@
 
 ## 🧩 주요 프로젝트 (Featured Projects)
 
-### [CodeRim](https://github.com/dlfkdLR/CodeRim)
-
 <p align="center">
-  <a href="https://github.com/dlfkdLR/CodeRim"><img src="https://raw.githubusercontent.com/dlfkdLR/CodeRim/ac30bbc0358de034055595530d2aa9cb25e7330d/Assets/AppIcon-1024.png" alt="CodeRim 앱 로고" width="112"/></a>
+  <a href="https://github.com/dlfkdLR/CodeRim"><img src="https://raw.githubusercontent.com/dlfkdLR/CodeRim/ac30bbc0358de034055595530d2aa9cb25e7330d/Assets/AppIcon-1024.png" alt="CodeRim 앱 로고" width="104"/></a>
 </p>
-
-- 코딩 도구의 사용 한도와 작업 상태, 로컬 토큰 기록을 확인하는 macOS·Windows 앱입니다.
-- 개인 프로젝트에서 제품을 기획하고 AI 생성 코드를 검토하며 검증 기준을 세웠습니다.
-- `역할: 제품 기획 · 코드 검토 · 검증` · [자세히 보기](https://dlfkd.dev/work/coderim)
-
-### [매점 프로젝트](https://dlfkd.dev/work/school-kiosk)
-
-- 학교 매점의 학생용 웹을 구현했습니다. [웹사이트 보기](https://schoolstore.dlfkd.dev/)
-- 초기 키오스크 기획에서는 백엔드와 데이터베이스 설계를 맡았습니다. 키오스크 결제·재고 차감은 완성하지 않았습니다.
-- `역할: 백엔드 및 데이터베이스 설계` · 상태: `학생용 웹 구현 / 키오스크 계획 중단`
+<h3 align="center"><a href="https://github.com/dlfkdLR/CodeRim">CodeRim</a></h3>
+<p align="center">
+  코딩 도구의 사용 한도·작업 상태·로컬 토큰 기록을 확인하는 macOS·Windows 앱<br/>
+  <strong>개인 프로젝트</strong> · 제품 기획 · AI 생성 코드 검토 · 검증 기준 수립<br/>
+  <a href="https://github.com/dlfkdLR/CodeRim">GitHub</a> · <a href="https://dlfkd.dev/work/coderim">프로젝트 기록</a>
+</p>
 
 ### [선비 · Seonbi](https://github.com/dlfkdLR/SEONBI)
 
-- 상황형 질문으로 선택 기준을 찾고 추천 이유를 보여 주는 의사결정 서비스입니다.
-- `역할: 분석 엔진 · 질문 흐름 · AI 연동` · [서비스 보기](https://seonbi.yaki.kr/) · [자세히 보기](https://dlfkd.dev/work/seonbi)
+상황형 질문으로 선택 기준을 찾고, 추천 이유와 선택이 달라지는 조건을 보여 주는 의사결정 서비스입니다.<br/>
+**맡은 일** 분석 엔진 · 질문 흐름 · AI 연동<br/>
+[서비스](https://seonbi.yaki.kr/) · [프로젝트 기록](https://dlfkd.dev/work/seonbi)
 
 ### [Story Road](https://github.com/dlfkdLR/storyLoad)
 
-- 방문한 지역의 이야기를 열고 추억을 기록하는 iOS 여행 다이어리 프로토타입입니다.
-- `역할: 서비스 기획 · Swift/SwiftUI 개발 참여` · [자세히 보기](https://dlfkd.dev/work/story-road)
+방문한 지역의 이야기를 열고 음성·사진·글로 추억을 남기는 iOS 여행 다이어리 프로토타입입니다.<br/>
+**맡은 일** 서비스 기획 · Swift/SwiftUI 개발 참여<br/>
+[프로젝트 기록](https://dlfkd.dev/work/story-road)
+
+### [매점 프로젝트](https://dlfkd.dev/work/school-kiosk)
+
+학교 매점의 학생용 웹을 구현했습니다. 초기 키오스크 계획에서는 백엔드·데이터베이스를 설계했으며, 키오스크 결제·재고 차감은 완성하지 않았습니다.<br/>
+**맡은 일** 백엔드·데이터베이스 설계<br/>
+[학생용 웹](https://schoolstore.dlfkd.dev/) · [진행 범위](https://dlfkd.dev/work/school-kiosk)
 
 ---
 
