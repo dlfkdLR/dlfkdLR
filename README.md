@@ -69,33 +69,26 @@
 
 ### Programming
 
-`Python` · `C` · `Java`
+<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=111111" alt="C"/>
+<img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
 
 ### Web Development
 
-`HTML` · `CSS` · `JavaScript` · `React`
-
-### Tools / Data
-
-`Git` · `GitHub` · `Linux` · `SQL` · `Neon` · `Supabase` · `Vercel`
-
-<br/>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=111111" alt="C"/>
 <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
 <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=111111" alt="React"/>
-<img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+
+### Tools / Data
+
+<img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/-GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111111" alt="Linux"/>
+<img src="https://img.shields.io/badge/-SQL-475569?style=for-the-badge&logoColor=white" alt="SQL"/>
 <img src="https://img.shields.io/badge/-Neon-000000?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyBmaWxsPSIjMDBFNTk5IiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2bTmVvbjwvdGl0bGU%2bPHBhdGggZD0iTTI0IDBWMjRsLTkuMzY1LTguMDQ1VjI0SDBWMFpNMi45NDIgMjEuMDg3aDguNzUxVjkuNTYzbDkuMzY1IDguMjA0VjIuOTE5TDIuOTQyIDIuOTE0WiIvPjwvc3ZnPg%3d%3d" alt="Neon"/>
 <img src="https://img.shields.io/badge/-Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=111111" alt="Supabase"/>
-
-</div>
-
+<img src="https://img.shields.io/badge/-Vercel-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
 ---
 
 ## 🤖 Prompt Engineering
@@ -116,13 +109,12 @@
 
 ### 경북소프트웨어마이스터고 1학년
 
-- **2026.05 AI EXPO KOREA 2026 국제인공지능대전(서울 COEX)** | 학교 대표 부스 프로젝트 설명 도우미
-- **경북소프트웨어마이스터고 매점 프로젝트** | JA Korea 창업 활동에서 키오스크를 기획했고, 이후 학생용 웹을 별도로 구현
-- **2026.06 경북 청소년 창업 해커톤 경진대회** | 창의상
-- **2026.06 전공 동아리 주간 프레임 동아리 1등** | MAJOR 프로젝트 기획 · 득표율 90%
-- **2026.08 GEEKS 해커톤** | CokZip 학습 도움 튜터 기획 및 개발 참여
-- **2026.11 제2회 영남권 사이버 공격 방어 대회** | OxB4DC0DE 팀 · 부산광역시장상 대상
-
+- `2026.11` **대상 · 부산광역시장상** — 제2회 영남권 사이버 공격 방어 대회 · OxB4DC0DE 팀
+- `2026.06` **창의상** — 경북 청소년 창업 해커톤 경진대회
+- `2026.06` **1등** — 전공 동아리 주간 프레임 동아리 · MAJOR 프로젝트 기획 · 득표율 90%
+- `2026.08` GEEKS 해커톤 — CokZip 학습 도움 튜터 기획 및 개발 참여
+- `2026.05` AI EXPO KOREA 2026 국제인공지능대전(서울 COEX) — 학교 대표 부스 프로젝트 설명 도우미
+- JA Korea 창업 활동 — 매점 키오스크 기획 후 학생용 웹을 별도로 구현
 ---
 
 ## 📬 Contact
