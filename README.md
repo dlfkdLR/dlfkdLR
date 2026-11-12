@@ -84,6 +84,7 @@
 <p>
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/-GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111111" alt="Linux"/> <img src="https://img.shields.io/badge/-SQL-475569?style=for-the-badge&logoColor=white" alt="SQL"/> <img src="https://img.shields.io/badge/-Neon-000000?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyBmaWxsPSIjMDBFNTk5IiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2bTmVvbjwvdGl0bGU%2bPHBhdGggZD0iTTI0IDBWMjRsLTkuMzY1LTguMDQ1VjI0SDBWMFpNMi45NDIgMjEuMDg3aDguNzUxVjkuNTYzbDkuMzY1IDguMjA0VjIuOTE5TDIuOTQyIDIuOTE0WiIvPjwvc3ZnPg%3d%3d" alt="Neon"/> <img src="https://img.shields.io/badge/-Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=111111" alt="Supabase"/> <img src="https://img.shields.io/badge/-Vercel-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
 </p>
+
 ---
 
 ## 🤖 Prompt Engineering
