@@ -35,33 +35,41 @@
 
 ## 🧩 주요 프로젝트 (Featured Projects)
 
-<p align="center">
-  <a href="https://github.com/dlfkdLR/CodeRim"><img src="https://raw.githubusercontent.com/dlfkdLR/CodeRim/ac30bbc0358de034055595530d2aa9cb25e7330d/Assets/AppIcon-1024.png" alt="CodeRim 앱 로고" width="104"/></a>
-</p>
-<h3 align="center"><a href="https://github.com/dlfkdLR/CodeRim">CodeRim</a></h3>
-<p align="center">
-  코딩 도구의 사용 한도·작업 상태·로컬 토큰 기록을 확인하는 macOS·Windows 앱<br/>
-  <strong>개인 프로젝트</strong> · 제품 기획 · AI 생성 코드 검토 · 검증 기준 수립<br/>
-  <a href="https://github.com/dlfkdLR/CodeRim">GitHub</a> · <a href="https://dlfkd.dev/work/coderim">프로젝트 기록</a>
+### <a href="https://github.com/dlfkdLR/CodeRim"><img src="https://raw.githubusercontent.com/dlfkdLR/CodeRim/ac30bbc0358de034055595530d2aa9cb25e7330d/Assets/AppIcon-1024.png" alt="CodeRim 로고" width="42"/></a> CodeRim
+
+코딩 도구의 사용 한도·작업 상태·로컬 토큰 기록을 확인하는 macOS·Windows 앱입니다.<br/>
+**개인 프로젝트 · 맡은 일** 제품 기획 · AI 생성 코드 검토 · 검증 기준 수립
+
+<p>
+  <a href="https://github.com/dlfkdLR/CodeRim"><img src="https://img.shields.io/badge/GitHub-Repo-24292F?style=flat-square&logo=github&logoColor=white" alt="CodeRim GitHub 저장소"/></a> <a href="https://dlfkd.dev/work/coderim"><img src="https://img.shields.io/badge/Portfolio-Details-334155?style=flat-square&logo=vercel&logoColor=white" alt="CodeRim 프로젝트 기록"/></a>
 </p>
 
-### [선비 · Seonbi](https://github.com/dlfkdLR/SEONBI)
+### 선비 · Seonbi
 
 상황형 질문으로 선택 기준을 찾고, 추천 이유와 선택이 달라지는 조건을 보여 주는 의사결정 서비스입니다.<br/>
-**맡은 일** 분석 엔진 · 질문 흐름 · AI 연동<br/>
-[서비스](https://seonbi.yaki.kr/) · [프로젝트 기록](https://dlfkd.dev/work/seonbi)
+**팀 프로젝트 · 맡은 일** 분석 엔진 · 질문 흐름 · AI 연동
 
-### [Story Road](https://github.com/dlfkdLR/storyLoad)
+<p>
+  <a href="https://github.com/dlfkdLR/SEONBI"><img src="https://img.shields.io/badge/GitHub-Repo-24292F?style=flat-square&logo=github&logoColor=white" alt="선비 GitHub 저장소"/></a> <a href="https://seonbi.yaki.kr/"><img src="https://img.shields.io/badge/Live-Site-0F766E?style=flat-square&logoColor=white" alt="선비 서비스"/></a> <a href="https://dlfkd.dev/work/seonbi"><img src="https://img.shields.io/badge/Portfolio-Details-334155?style=flat-square&logo=vercel&logoColor=white" alt="선비 프로젝트 기록"/></a>
+</p>
+
+### Story Road
 
 방문한 지역의 이야기를 열고 음성·사진·글로 추억을 남기는 iOS 여행 다이어리 프로토타입입니다.<br/>
-**맡은 일** 서비스 기획 · Swift/SwiftUI 개발 참여<br/>
-[프로젝트 기록](https://dlfkd.dev/work/story-road)
+**팀 프로젝트 · 맡은 일** 서비스 기획 · Swift/SwiftUI 개발 참여
 
-### [매점 프로젝트](https://dlfkd.dev/work/school-kiosk)
+<p>
+  <a href="https://github.com/dlfkdLR/storyLoad"><img src="https://img.shields.io/badge/GitHub-Repo-24292F?style=flat-square&logo=github&logoColor=white" alt="Story Road GitHub 저장소"/></a> <a href="https://dlfkd.dev/work/story-road"><img src="https://img.shields.io/badge/Portfolio-Details-334155?style=flat-square&logo=vercel&logoColor=white" alt="Story Road 프로젝트 기록"/></a>
+</p>
+
+### 매점 프로젝트
 
 학교 매점의 학생용 웹을 구현했습니다. 초기 키오스크 계획에서는 백엔드·데이터베이스를 설계했으며, 키오스크 결제·재고 차감은 완성하지 않았습니다.<br/>
-**맡은 일** 백엔드·데이터베이스 설계<br/>
-[학생용 웹](https://schoolstore.dlfkd.dev/) · [진행 범위](https://dlfkd.dev/work/school-kiosk)
+**팀 프로젝트 · 맡은 일** 백엔드·데이터베이스 설계
+
+<p>
+  <a href="https://schoolstore.dlfkd.dev/"><img src="https://img.shields.io/badge/Live-Site-0F766E?style=flat-square&logoColor=white" alt="매점 학생용 웹"/></a> <a href="https://dlfkd.dev/work/school-kiosk"><img src="https://img.shields.io/badge/Portfolio-Details-334155?style=flat-square&logo=vercel&logoColor=white" alt="매점 프로젝트 기록"/></a>
+</p>
 
 ---
 
@@ -115,7 +123,7 @@
 
 ## 📬 Contact
 
-- 프로젝트 협업, 해커톤, 팀 프로젝트 제안은 **contact@dlfkd.dev**로 연락 주세요.
+- 프로젝트 협업, 해커톤, 팀 프로젝트 제안은 아래 이메일로 연락 주세요.
 
 <div align="center">
 
