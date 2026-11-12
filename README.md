@@ -35,17 +35,21 @@
 
 ## 🧩 주요 프로젝트 (Featured Projects)
 
+### [CodeRim](https://github.com/dlfkdLR/CodeRim)
+
+<p align="center">
+  <a href="https://github.com/dlfkdLR/CodeRim"><img src="https://raw.githubusercontent.com/dlfkdLR/CodeRim/ac30bbc0358de034055595530d2aa9cb25e7330d/Assets/AppIcon-1024.png" alt="CodeRim 앱 로고" width="112"/></a>
+</p>
+
+- 코딩 도구의 사용 한도와 작업 상태, 로컬 토큰 기록을 확인하는 macOS·Windows 앱입니다.
+- 개인 프로젝트에서 제품을 기획하고 AI 생성 코드를 검토하며 검증 기준을 세웠습니다.
+- `역할: 제품 기획 · 코드 검토 · 검증` · [자세히 보기](https://dlfkd.dev/work/coderim)
+
 ### [매점 프로젝트](https://dlfkd.dev/work/school-kiosk)
 
 - 학교 매점의 학생용 웹을 구현했습니다. [웹사이트 보기](https://schoolstore.dlfkd.dev/)
 - 초기 키오스크 기획에서는 백엔드와 데이터베이스 설계를 맡았습니다. 키오스크 결제·재고 차감은 완성하지 않았습니다.
 - `역할: 백엔드 및 데이터베이스 설계` · 상태: `학생용 웹 구현 / 키오스크 계획 중단`
-
-### [CodeRim](https://github.com/dlfkdLR/CodeRim)
-
-- 코딩 도구의 사용 한도와 작업 상태, 로컬 토큰 기록을 확인하는 macOS·Windows 앱입니다.
-- 개인 프로젝트에서 제품을 기획하고 AI 생성 코드를 검토하며 검증 기준을 세웠습니다.
-- `역할: 제품 기획 · 코드 검토 · 검증` · [자세히 보기](https://dlfkd.dev/work/coderim)
 
 ### [선비 · Seonbi](https://github.com/dlfkdLR/SEONBI)
 
@@ -115,6 +119,7 @@
 - **2026.06 경북 청소년 창업 해커톤 경진대회** | 창의상
 - **2026.06 전공 동아리 주간 프레임 동아리 1등** | MAJOR 프로젝트 기획 · 득표율 90%
 - **2026.08 GEEKS 해커톤** | CokZip 학습 도움 튜터 기획 및 개발 참여
+- **2026.11 제2회 영남권 사이버 공격 방어 대회** | OxB4DC0DE 팀 · 부산광역시장상 대상
 
 ---
 
@@ -127,19 +132,5 @@
 <a href="mailto:contact@dlfkd.dev">
   <img src="https://img.shields.io/badge/CONTACT-contact%40dlfkd.dev-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white" alt="contact@dlfkd.dev"/>
 </a>
-
-</div>
-
----
-
-## 🧭 지금 집중하는 것 (Current Focus)
-
-- 팀 프로젝트에서 사용자 흐름과 데이터 구조를 함께 설계하기
-- React 기반 웹 UI와 백엔드 API, 데이터 흐름 이해하기
-- 학생용 웹처럼 실제 사용할 수 있는 서비스를 만들고 고쳐보기
-
-<div align="center">
-
-**아직 배우는 중이지만, 배우면서 만들고, 만들면서 더 배웁니다.**
 
 </div>
